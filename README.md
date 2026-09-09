@@ -1,9 +1,8 @@
 <div align="center">
 
-<!-- Banner Image -->
-<img src="https://via.placeholder.com/800x250.png?text=DukaanSaathi+Retail+Engine" alt="DukaanSaathi Banner" width="100%">
+# 🛒 DukaanSaathi
 
-# ⚡ Now Running on API - 10x Faster! ⚡
+**Smart Business Management & Digital Ledger Solution**
 
 `Response Time: 1-3 seconds` | `Stability: 99.9% Uptime`
 
@@ -19,11 +18,39 @@
 
 ## ✨ Features
 
-| 🎵 High Quality | 🔗 Multiple Sources | 📋 Playlists | 🌐 Live Data |
+| 📦 Inventory | 🏪 Multi-Store | 📋 Khata Book | ☁️ Cloud Sync |
 | :---: | :---: | :---: | :---: |
-| Real-time inventory tracking | Multi-store support | Custom ledger lists | Cloud sync |
+| Real-time stock tracking | Multi-branch support | Digital Udhar Ledger | Instant backup |
 
-| 🎨 Elegant UI | 👑 Admin Controls | ⚡ Lightning Fast | 🛡️ Secure |
+| 📊 Analytics | 👑 Admin Control | ⚡ Fast Billing | 🛡️ Secure |
+| :---: | :---: | :---: | :---: |
+| Daily Sales Reports | Full Store Access | 1-3s Quick Bill | Safe Data |
+
+---
+
+## 🎯 Commands
+
+| Command | Description |
+| :--- | :--- |
+| `/start` | 🚀 Start the bot |
+| `/inventory` | 📦 Check stock levels |
+| `/billing` | 🧾 Create fast bill |
+| `/khata` | 📖 Manage customer ledger |
+| `/stats` | 📊 View daily sales analytics |
+| `/settings` | ⚙️ Store & Bot settings |
+
+---
+
+## 🚀 Deployment Guide
+
+<details>
+<summary>📦 <b>VPS Deployment (Click to Expand)</b></summary>
+
+```bash
+git clone [https://github.com/GOKUxEDITION/DukaanSaathi.git](https://github.com/GOKUxEDITION/DukaanSaathi.git)
+cd DukaanSaathi
+pip install -r requirements.txt
+python3 -m bot
 | :---: | :---: | :---: | :---: |
 | Modern Interface | Powerful Commands | 1-3s Response | End-to-End |
 
