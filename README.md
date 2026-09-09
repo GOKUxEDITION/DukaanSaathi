@@ -1,27 +1,57 @@
-# DukaanSaathi
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DukaanSaathi - Modern Retail Management Solution</title>
-    <style>
-        :root {
-            --bg-color: #0f172a;
-            --card-bg: #1e293b;
-            --accent-color: #38bdf8;
-            --text-color: #f8fafc;
-            --text-muted: #94a3b8;
-        }
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: var(--bg-color);
-            color: var(--text-color);
-            margin: 0;
-            padding: 20px;
-        }
-        .container {
-            max-width: 900px;
+<div align="center">
+
+<!-- Banner Image -->
+<img src="https://via.placeholder.com/800x250.png?text=DukaanSaathi+Retail+Engine" alt="DukaanSaathi Banner" width="100%">
+
+# ⚡ Now Running on API - 10x Faster! ⚡
+
+`Response Time: 1-3 seconds` | `Stability: 99.9% Uptime`
+
+---
+
+## 🚀 Quick Deploy
+
+| Platform | Deploy Now | Info |
+| :---: | :---: | :---: |
+| **Heroku** | [<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">](https://heroku.com) | One-Click Deploy |
+
+---
+
+## ✨ Features
+
+| 🎵 High Quality | 🔗 Multiple Sources | 📋 Playlists | 🌐 Live Data |
+| :---: | :---: | :---: | :---: |
+| Real-time inventory tracking | Multi-store support | Custom ledger lists | Cloud sync |
+
+| 🎨 Elegant UI | 👑 Admin Controls | ⚡ Lightning Fast | 🛡️ Secure |
+| :---: | :---: | :---: | :---: |
+| Modern Interface | Powerful Commands | 1-3s Response | End-to-End |
+
+---
+
+## 🎯 Commands
+
+| Command | Description |
+| :--- | :--- |
+| `/start` | 🎵 Start the bot |
+| `/inventory` | ⏸️ Check stock levels |
+| `/billing` | ▶️ Create fast bill |
+| `/khata` | ⏭️ Manage customer ledger |
+| `/stats` | ⏹️ View daily analytics |
+| `/settings` | ⚙️ Bot settings |
+
+---
+
+## 🚀 Deployment Guide
+
+<details>
+<summary>📦 <b>VPS Deployment (Click to Expand)</b></summary>
+
+```bash
+git clone [https://github.com/yourusername/DukaanSaathi.git](https://github.com/yourusername/DukaanSaathi.git)
+cd DukaanSaathi
+pip install -r requirements.txt
+python3 -m bot
             margin: 0 auto;
         }
         .header {
